@@ -1,4 +1,4 @@
-# SIET AWS Cloud Assignment - Submitted by Durga V
+# AWS Cloud Assignment - Submitted by Durga V
 This repository contains assignments related to AWS learning and implementation.
 
 ---
